@@ -1,0 +1,65 @@
+{
+    "filial Cinesystem Cinema": [
+        {
+            "id": 1,
+            "Ilha do Governador": "Ilha Plaza Shopping",
+            "Bangu": "Bangu Shopping",
+            "Itaboraí": "Itaboraí Plaza Shopping",
+            "Irajá": "Shopping Via Brasil",
+            "Jardim Sulacap" : "Parque Shopping Sulacap"
+        }
+    ],
+    "Horários de Funcionamento":[
+        {
+            "id":1,
+            "Ilha do Governador": "Segunda a Segunda das 11:00 horas as 00:10",
+            "Bangu": "Segunda a Segunda das 11:00 horas as 00:10",
+            "Itaboraí": "Segunda a Segunda das 11:00 horas as 00:10",
+            "Irajá": "Segunda a Segunda das 11:00 horas as 00:10",
+            "Jardim Sulacap" : "Segunda a Segunda das 11:00 horas as 00:10"
+        }
+    ],
+    
+    "filmes em Cartaz": [
+        {
+            "id": 1,
+            "Pantera Negra - Wakanda Para Sempre": "Ação e Aventura",
+            "A Luz do Demônio": "Suspense e Terror",
+            "Lilo, Lilo, Crocodilo": "Comédia",
+            "Adão Negro": "Ação e Aventura",
+            "One Fiece Film - Red": "Animação e Aventura",
+            "As Aventura de Tadeo e a Tábua de Esmeralda": "Aventura",
+            "Sorria": "Suspense e Terror",
+            "A Mulher Rei": "Ação e Aventura",
+            "Quarto 66 E Os Segredos Templários" : "Jogos de Fuga"
+        }
+    ],
+    "ingresso": [
+        {
+            "ingresso meia": {
+                "id": 1,
+                "segunda-feira": "R$ 10,99",
+                "terça-feira": "R$ 10,99",
+                "quarta-feira": "R$ 10,99",
+                "quinta-feira": "R$ 10,99",
+                "sexta-feira": "R$ 12,99",
+                "sábado": "R$12,99",
+                "domingo": "R$12,99",
+                "feriados": "R$13,99",
+                "ponto facultativos": "R$12,49"
+            },
+            "ingresso inteira": {
+                "id": 2,
+                "segunda-feira": "R$ 21,99",
+                "terça-feira": "R$ 21,99",
+                "quarta-feira": "R$ 21,99",
+                "quinta-feira": "R$ 21,99",
+                "sexta-feira": "R$ 25,99",
+                "sábado": "R$25,99",
+                "domingo": "R$25,99",
+                "feriados": "R$27,99",
+                "ponto facultativos": "R$24,99"
+            }
+        }
+    ]
+}
