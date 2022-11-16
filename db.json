@@ -1,5 +1,5 @@
 {
-    "filial Cinesystem Cinema": [
+    "filial": [
         {
             "id": 1,
             "Ilha do Governador": "Ilha Plaza Shopping",
@@ -9,7 +9,7 @@
             "Jardim Sulacap" : "Parque Shopping Sulacap"
         }
     ],
-    "Horários de Funcionamento":[
+    "HF":[
         {
             "id":1,
             "Ilha do Governador": "Segunda a Segunda das 11:00 horas as 00:10",
@@ -20,7 +20,7 @@
         }
     ],
     
-    "filmes em Cartaz": [
+    "fCartaz": [
         {
             "id": 1,
             "Pantera Negra - Wakanda Para Sempre": "Ação e Aventura",
