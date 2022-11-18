@@ -9,7 +9,7 @@
             "Jardim Sulacap" : "Parque Shopping Sulacap"
         }
     ],
-    "HF":[
+    "Horarios ":[
         {
             "id":1,
             "Ilha do Governador": "Segunda a Segunda das 11:00 horas as 00:10",
@@ -20,7 +20,7 @@
         }
     ],
     
-    "fCartaz": [
+    "filmes": [
         {
             "id": 1,
             "Pantera Negra - Wakanda Para Sempre": "Ação e Aventura",
